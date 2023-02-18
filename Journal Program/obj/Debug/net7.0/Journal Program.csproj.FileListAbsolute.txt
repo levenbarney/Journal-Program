@@ -1,0 +1,15 @@
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\obj\Debug\net7.0\Journal Program.csproj.AssemblyReference.cache
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\obj\Debug\net7.0\Journal Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\obj\Debug\net7.0\Journal Program.AssemblyInfoInputs.cache
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\obj\Debug\net7.0\Journal Program.AssemblyInfo.cs
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\obj\Debug\net7.0\Journal Program.csproj.CoreCompileInputs.cache
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\bin\Debug\net7.0\Journal Program.exe
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\bin\Debug\net7.0\Journal Program.deps.json
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\bin\Debug\net7.0\Journal Program.runtimeconfig.json
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\bin\Debug\net7.0\Journal Program.dll
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\bin\Debug\net7.0\Journal Program.pdb
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\obj\Debug\net7.0\Journal Program.dll
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\obj\Debug\net7.0\refint\Journal Program.dll
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\obj\Debug\net7.0\Journal Program.pdb
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\obj\Debug\net7.0\Journal Program.genruntimeconfig.cache
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Journal Program\obj\Debug\net7.0\ref\Journal Program.dll
